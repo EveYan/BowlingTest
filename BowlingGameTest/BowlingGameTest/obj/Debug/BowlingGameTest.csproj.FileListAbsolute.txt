@@ -1,0 +1,5 @@
+D:\我的文档\Visual Studio 2010\Projects\BowlingGameTest\BowlingGameTest\obj\Debug\ResolveAssemblyReference.cache
+D:\我的文档\Visual Studio 2010\Projects\BowlingGameTest\BowlingGameTest\bin\Debug\BowlingGameTest.dll
+D:\我的文档\Visual Studio 2010\Projects\BowlingGameTest\BowlingGameTest\bin\Debug\BowlingGameTest.pdb
+D:\我的文档\Visual Studio 2010\Projects\BowlingGameTest\BowlingGameTest\obj\Debug\BowlingGameTest.dll
+D:\我的文档\Visual Studio 2010\Projects\BowlingGameTest\BowlingGameTest\obj\Debug\BowlingGameTest.pdb

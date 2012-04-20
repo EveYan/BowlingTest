@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="d90a96e8-e94a-4b82-9af2-50db3366d799" name="Administrator@DP-201204151921 2012-04-20 00:40:49" runUser="DP-201204151921\Administrator" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="本地" id="6ea6a192-a5db-4a18-9be5-c299ca34a8b2">
+    <Description>这些设置为本地测试运行的默认测试设置。</Description>
+    <Deployment enabled="false" runDeploymentRoot="Administrator_DP-201204151921 2012-04-20 00_40_49" />
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2012-04-20T00:40:49.6250000+08:00" queuing="2012-04-20T00:40:50.7968750+08:00" start="2012-04-20T00:40:50.9375000+08:00" finish="2012-04-20T00:40:52.1562500+08:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="6" executed="6" passed="6" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="Test20Zero" storage="d:\我的文档\visual studio 2010\projects\bowlinggametest\bowlinggametest\bin\debug\bowlinggametest.dll" id="50caa38f-47c4-a4ef-4667-1b50a8cb09e7">
+      <Execution id="3a5c2fd4-122f-42fc-ac75-fa1d8a65403b" />
+      <TestMethod codeBase="D:/我的文档/Visual Studio 2010/Projects/BowlingGameTest/BowlingGameTest/bin/Debug/BowlingGameTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="BowlingGameTest.UnitTest1, BowlingGameTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Test20Zero" />
+    </UnitTest>
+    <UnitTest name="TestOneSpare" storage="d:\我的文档\visual studio 2010\projects\bowlinggametest\bowlinggametest\bin\debug\bowlinggametest.dll" id="2c118278-ceea-1071-cb8a-24d0d8ab1d74">
+      <Execution id="9e765ae8-505c-47bc-9727-9954298bdd36" />
+      <TestMethod codeBase="D:/我的文档/Visual Studio 2010/Projects/BowlingGameTest/BowlingGameTest/bin/Debug/BowlingGameTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="BowlingGameTest.UnitTest1, BowlingGameTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestOneSpare" />
+    </UnitTest>
+    <UnitTest name="TestOneSpareStrike" storage="d:\我的文档\visual studio 2010\projects\bowlinggametest\bowlinggametest\bin\debug\bowlinggametest.dll" id="d5bb5328-3d9b-1b66-b222-019006511c77">
+      <Execution id="fcd4798e-46bf-4fda-afe7-2deee4abeb67" />
+      <TestMethod codeBase="D:/我的文档/Visual Studio 2010/Projects/BowlingGameTest/BowlingGameTest/bin/Debug/BowlingGameTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="BowlingGameTest.UnitTest1, BowlingGameTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestOneSpareStrike" />
+    </UnitTest>
+    <UnitTest name="TestPerfectGame" storage="d:\我的文档\visual studio 2010\projects\bowlinggametest\bowlinggametest\bin\debug\bowlinggametest.dll" id="179690be-6fd6-e8e0-ddf8-6c6c92489bfe">
+      <Execution id="f618a79b-01da-4d4d-b851-d2d0c7e86fcb" />
+      <TestMethod codeBase="D:/我的文档/Visual Studio 2010/Projects/BowlingGameTest/BowlingGameTest/bin/Debug/BowlingGameTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="BowlingGameTest.UnitTest1, BowlingGameTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestPerfectGame" />
+    </UnitTest>
+    <UnitTest name="Test20One" storage="d:\我的文档\visual studio 2010\projects\bowlinggametest\bowlinggametest\bin\debug\bowlinggametest.dll" id="7a986686-5d34-5eda-3ce5-6c231951e100">
+      <Execution id="bd649880-9800-4685-b0c2-81abb6c80f6d" />
+      <TestMethod codeBase="D:/我的文档/Visual Studio 2010/Projects/BowlingGameTest/BowlingGameTest/bin/Debug/BowlingGameTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="BowlingGameTest.UnitTest1, BowlingGameTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Test20One" />
+    </UnitTest>
+    <UnitTest name="TestOneStrike" storage="d:\我的文档\visual studio 2010\projects\bowlinggametest\bowlinggametest\bin\debug\bowlinggametest.dll" id="848905ff-72a4-c6c0-2427-79a030227a2c">
+      <Execution id="0757f757-7e6b-400d-8087-7222716bf351" />
+      <TestMethod codeBase="D:/我的文档/Visual Studio 2010/Projects/BowlingGameTest/BowlingGameTest/bin/Debug/BowlingGameTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="BowlingGameTest.UnitTest1, BowlingGameTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestOneStrike" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="列表中未列出的结果" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="所有已加载的结果" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="848905ff-72a4-c6c0-2427-79a030227a2c" executionId="0757f757-7e6b-400d-8087-7222716bf351" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d5bb5328-3d9b-1b66-b222-019006511c77" executionId="fcd4798e-46bf-4fda-afe7-2deee4abeb67" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="2c118278-ceea-1071-cb8a-24d0d8ab1d74" executionId="9e765ae8-505c-47bc-9727-9954298bdd36" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="179690be-6fd6-e8e0-ddf8-6c6c92489bfe" executionId="f618a79b-01da-4d4d-b851-d2d0c7e86fcb" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="50caa38f-47c4-a4ef-4667-1b50a8cb09e7" executionId="3a5c2fd4-122f-42fc-ac75-fa1d8a65403b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="7a986686-5d34-5eda-3ce5-6c231951e100" executionId="bd649880-9800-4685-b0c2-81abb6c80f6d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="0757f757-7e6b-400d-8087-7222716bf351" testId="848905ff-72a4-c6c0-2427-79a030227a2c" testName="TestOneStrike" computerName="DP-201204151921" duration="00:00:00.0203620" startTime="2012-04-20T00:40:51.0000000+08:00" endTime="2012-04-20T00:40:51.8906250+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="0757f757-7e6b-400d-8087-7222716bf351">
+    </UnitTestResult>
+    <UnitTestResult executionId="fcd4798e-46bf-4fda-afe7-2deee4abeb67" testId="d5bb5328-3d9b-1b66-b222-019006511c77" testName="TestOneSpareStrike" computerName="DP-201204151921" duration="00:00:00.0005171" startTime="2012-04-20T00:40:51.9062500+08:00" endTime="2012-04-20T00:40:51.9218750+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="fcd4798e-46bf-4fda-afe7-2deee4abeb67">
+    </UnitTestResult>
+    <UnitTestResult executionId="9e765ae8-505c-47bc-9727-9954298bdd36" testId="2c118278-ceea-1071-cb8a-24d0d8ab1d74" testName="TestOneSpare" computerName="DP-201204151921" duration="00:00:00.0003612" startTime="2012-04-20T00:40:51.9375000+08:00" endTime="2012-04-20T00:40:51.9531250+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="9e765ae8-505c-47bc-9727-9954298bdd36">
+    </UnitTestResult>
+    <UnitTestResult executionId="f618a79b-01da-4d4d-b851-d2d0c7e86fcb" testId="179690be-6fd6-e8e0-ddf8-6c6c92489bfe" testName="TestPerfectGame" computerName="DP-201204151921" duration="00:00:00.0003221" startTime="2012-04-20T00:40:51.9687500+08:00" endTime="2012-04-20T00:40:51.9843750+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f618a79b-01da-4d4d-b851-d2d0c7e86fcb">
+    </UnitTestResult>
+    <UnitTestResult executionId="3a5c2fd4-122f-42fc-ac75-fa1d8a65403b" testId="50caa38f-47c4-a4ef-4667-1b50a8cb09e7" testName="Test20Zero" computerName="DP-201204151921" duration="00:00:00.0003229" startTime="2012-04-20T00:40:52.0000000+08:00" endTime="2012-04-20T00:40:52.0156250+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="3a5c2fd4-122f-42fc-ac75-fa1d8a65403b">
+    </UnitTestResult>
+    <UnitTestResult executionId="bd649880-9800-4685-b0c2-81abb6c80f6d" testId="7a986686-5d34-5eda-3ce5-6c231951e100" testName="Test20One" computerName="DP-201204151921" duration="00:00:00.0003265" startTime="2012-04-20T00:40:52.0312500+08:00" endTime="2012-04-20T00:40:52.0468750+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="bd649880-9800-4685-b0c2-81abb6c80f6d">
+    </UnitTestResult>
+  </Results>
+</TestRun>
